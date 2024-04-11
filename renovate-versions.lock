@@ -70,7 +70,7 @@ name:SnowplowTracker version:6.0.1 source:trunk
 name:SwiftBasicFormat podspec:http://127.0.0.1:1337/SwiftBasicFormat/SwiftBasicFormat.podspec
 name:SwiftCustomDump podspec:http://127.0.0.1:1337/SwiftCustomDump/SwiftCustomDump.podspec
 name:SwiftDiagnostics podspec:http://127.0.0.1:1337/SwiftDiagnostics/SwiftDiagnostics.podspec
-name:SwiftFormat version:0.53.5 source:trunk
+name:SwiftFormat version:0.53.6 source:trunk
 name:SwiftLint version:0.54.0 source:trunk
 name:SwiftParser podspec:http://127.0.0.1:1337/SwiftParser/SwiftParser.podspec
 name:SwiftParserDiagnostics podspec:http://127.0.0.1:1337/SwiftParserDiagnostics/SwiftParserDiagnostics.podspec
