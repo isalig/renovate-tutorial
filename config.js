@@ -18,7 +18,11 @@ module.exports = {
   // logLevel: 'debug',
   persistRepoData: true,
   rangeStrategy: "auto",
-  allowedPostUpgradeCommands: [".*"],
+  allowedPostUpgradeCommands: [
+    "install-tool .*",
+    "gem install .*",
+    "bundle exec pod .*"
+  ],
   packageRules: [
     {
       matchUpdateTypes: ["major"],
