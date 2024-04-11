@@ -26,7 +26,7 @@ name:FirebaseCrashlytics version:10.23.0 source:trunk
 name:FirebaseDynamicLinks version:10.23.0 source:trunk
 name:FirebaseInstallations version:10.23.0 source:trunk
 name:FirebasePerformance version:10.23.0 source:trunk
-name:FirebaseRemoteConfig version:10.23.0 source:trunk
+name:FirebaseRemoteConfig version:10.24.0 source:trunk
 name:FirebaseRemoteConfigInterop version:10.23.0 source:trunk
 name:FirebaseSessions version:10.23.0 source:trunk
 name:FirebaseSharedSwift version:10.23.0 source:trunk
