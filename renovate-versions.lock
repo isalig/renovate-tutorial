@@ -10,7 +10,7 @@ name:CocoaLumberjack version:3.8.5 source:trunk
 name:CrowdinSDK version:1.8.0 source:trunk
 name:DivKit version:28.13.0 source:trunk
 name:DivKit_LayoutKit version:28.13.0 source:trunk
-name:DivKit_LayoutKitInterface version:28.13.0 source:trunk
+name:DivKit_LayoutKitInterface version:29.13.0 source:trunk
 name:DivKit_Serialization version:28.13.0 source:trunk
 name:FBAEMKit version:17.0.0 source:trunk
 name:FBSDKCoreKit version:17.0.0 source:trunk
