@@ -96,7 +96,7 @@ name:WechatOpenSDK version:2.0.4 source:trunk
 name:XCTestDynamicOverlay podspec:http://127.0.0.1:1337/XCTestDynamicOverlay/XCTestDynamicOverlay.podspec
 name:YYKeyboardManager version:1.0.1 source:trunk
 name:YandexLoginSDK version:2.1.1 source:trunk
-name:YandexMobileAds version:6.4.1 source:trunk
+name:YandexMobileAds version:7.0.0 source:trunk
 name:YandexMobileMetrica version:4.5.2 source:trunk
 name:YandexMobileMetrica/Static version:4.5.2 source:trunk
 name:_AtomicBool podspec:http://127.0.0.1:1337/_AtomicBool/_AtomicBool.podspec
