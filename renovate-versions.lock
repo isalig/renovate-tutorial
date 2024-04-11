@@ -35,7 +35,7 @@ name:GTMAppAuth version:4.1.1 source:trunk
 name:GTMSessionFetcher version:3.3.2 source:trunk
 name:Google-Mobile-Ads-SDK version:11.2.0 source:trunk
 name:GoogleAnalytics version:3.23.0 source:trunk
-name:GoogleAppMeasurement version:10.23.1 source:trunk
+name:GoogleAppMeasurement version:10.24.0 source:trunk
 name:GoogleDataTransport version:9.4.1 source:trunk
 name:GoogleMobileAdsMediationAppLovin version:12.3.0.0 source:trunk
 name:GoogleMobileAdsMediationUnity version:4.10.0.0 source:trunk
