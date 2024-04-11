@@ -20,7 +20,7 @@ name:Firebase version:10.23.1 source:trunk
 name:FirebaseABTesting version:10.23.0 source:trunk
 name:FirebaseAnalytics version:10.23.1 source:trunk
 name:FirebaseCore version:10.23.1 source:trunk
-name:FirebaseCoreExtension version:10.23.0 source:trunk
+name:FirebaseCoreExtension version:10.24.0 source:trunk
 name:FirebaseCoreInternal version:10.23.0 source:trunk
 name:FirebaseCrashlytics version:10.23.0 source:trunk
 name:FirebaseDynamicLinks version:10.23.0 source:trunk
