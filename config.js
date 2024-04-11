@@ -18,6 +18,7 @@ module.exports = {
   // logLevel: 'debug',
   persistRepoData: true,
   rangeStrategy: "auto",
+  allowedPostUpgradeCommands: [".*"],
   packageRules: [
     {
       matchUpdateTypes: ["major"],

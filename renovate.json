@@ -9,5 +9,14 @@
       "matchStrings": ["name:(?<depName>.*?)\\sversion:(?<currentValue>.*?)\\s"],
       "datasourceTemplate": "pod"
     }
-  ]
+  ],
+  "postUpgradeTasks": {
+    "commands": [
+      "install-tool ruby 3.1.2", 
+      "gem install bundler", 
+      "bundle exec pod install"
+    ],
+    "fileFilters": ["**/*"],
+    "executionMode": "update"
+  }
 }
