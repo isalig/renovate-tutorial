@@ -81,7 +81,7 @@ name:SwiftSyntaxBuilder podspec:http://127.0.0.1:1337/SwiftSyntaxBuilder/SwiftSy
 name:Tagged podspec:http://127.0.0.1:1337/Tagged/Tagged.podspec
 name:UIImageViewAligned version:0.0.1 source:trunk
 name:UIView+Shake version:1.4.0 source:trunk
-name:UXFBSDK version:2.2.0 source:trunk
+name:UXFBSDK version:2.5.0 source:trunk
 name:UnityAds version:4.10.0 source:trunk
 name:VGSLBase version:2.4.1 source:trunk
 name:VGSLBaseTiny version:2.4.1 source:trunk
