@@ -2,10 +2,9 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:recommended"],
   "branchPrefix": "renovate/",
-  "enabledManagers": ["custom.regex"],
-  "customManagers": [
+  "enabledManagers": ["regex"],
+  "regexManagers": [
     {
-      "customType": "regex",
       "fileMatch": ["renovate-versions.lock"],
       "matchStrings": ["name:(?<depName>.*?)\\sversion:(?<currentValue>.*?)\\s"],
       "datasourceTemplate": "pod"

@@ -3,6 +3,7 @@ module.exports = {
     "group:monorepos",
     "group:recommended",
   ],
+  repositories: ["isalig/renovate-tutorial"],
   platform: "github",
   token: process.env.GITHUB_TOKEN,
   onboardingBranch: "renovate-onboarding",
@@ -16,8 +17,6 @@ module.exports = {
   // dryRun: true,
   // logLevel: 'debug',
   persistRepoData: true,
-  timezone: "Europe/Moscow",
-  schedule: ["every hour",],
   rangeStrategy: "auto",
   packageRules: [
     {
