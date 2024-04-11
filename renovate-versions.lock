@@ -8,7 +8,7 @@ name:CAtomic podspec:http://127.0.0.1:1337/CAtomic/CAtomic.podspec
 name:ClusterKit version:0.5.0 source:trunk
 name:CocoaLumberjack version:3.8.5 source:trunk
 name:CrowdinSDK version:1.8.0 source:trunk
-name:DivKit version:28.13.0 source:trunk
+name:DivKit version:29.13.0 source:trunk
 name:DivKit_LayoutKit version:28.13.0 source:trunk
 name:DivKit_LayoutKitInterface version:28.13.0 source:trunk
 name:DivKit_Serialization version:28.13.0 source:trunk
