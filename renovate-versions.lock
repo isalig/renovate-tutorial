@@ -102,6 +102,6 @@ name:YandexMobileMetrica/Static version:4.5.2 source:trunk
 name:_AtomicBool podspec:http://127.0.0.1:1337/_AtomicBool/_AtomicBool.podspec
 name:_CollectionsUtilities podspec:http://127.0.0.1:1337/_CollectionsUtilities/_CollectionsUtilities.podspec
 name:cmark-gfm podspec:http://127.0.0.1:1337/cmark-gfm/cmark-gfm.podspec
-name:lottie-ios version:4.4.1 source:trunk
+name:lottie-ios version:4.4.2 source:trunk
 name:nanopb version:2.30910.0 source:trunk
 name:ok-ios-sdk version:2.0.14 source:trunk
