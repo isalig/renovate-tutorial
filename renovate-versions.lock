@@ -33,7 +33,7 @@ name:FirebaseSharedSwift version:10.23.0 source:trunk
 name:FloatingPanel version:2.8.2 source:trunk
 name:GTMAppAuth version:4.1.1 source:trunk
 name:GTMSessionFetcher version:3.3.2 source:trunk
-name:Google-Mobile-Ads-SDK version:11.2.0 source:trunk
+name:Google-Mobile-Ads-SDK version:11.3.0 source:trunk
 name:GoogleAnalytics version:3.23.0 source:trunk
 name:GoogleAppMeasurement version:10.23.1 source:trunk
 name:GoogleDataTransport version:9.4.1 source:trunk
