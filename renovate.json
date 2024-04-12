@@ -5,8 +5,8 @@
   "enabledManagers": ["regex"],
   "regexManagers": [
     {
-      "fileMatch": ["renovate-versions.lock"],
-      "matchStrings": ["name:(?<depName>.*?)\\sversion:(?<currentValue>.*?)\\s"],
+      "fileMatch": ["^renovate-versions.lock&"],
+      "matchStrings": ["name:(?<depName>.*?)\\sversion:(?<currentValue>.*?)\\ssource:trunk"],
       "datasourceTemplate": "pod"
     }
   ],
